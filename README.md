@@ -1,39 +1,39 @@
-🇫🇷 README — Version Française
+🇬🇧 README — English Version
 <div align="center">
 🧩 Tricount_downloader
 
-Exportez vos données Tricount en CSV facilement, via une interface web dans un conteneur Docker.
+Download your Tricount data as CSV through a clean and simple Docker-hosted web interface.
 
 <img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker" /> <img src="https://img.shields.io/badge/N8N-Compatible-orange?logo=n8n" /> <img src="https://img.shields.io/badge/WebUI-Minimalist-green" /> <img src="https://img.shields.io/badge/Built%20with-Claude-purple" /> </div>
-✨ Présentation
+✨ About
 
-Tricount_downloader est une petite application web qui vous permet de télécharger en un clic les données d’un Tricount au format CSV.
-Pensée pour les fans d’automatisation et de self-hosting :
+Tricount_downloader lets you extract all your Tricount data as CSV in a single click from a tiny web interface.
+Designed for automation lovers and self-hosters:
 
-🐳 Installation ultra simple (Docker 1-clic)
+🐳 Extremely easy Docker setup
 
-🧭 Interface web légère
+🌐 Minimal web UI
 
-🌀 Compatible N8N — parfait pour automatiser vos exports
+🌀 Works with N8N automations
 
-🧱 Fonctionne parfaitement dans Dockge
+🧱 Fully compatible with Dockge
 
-🔧 Open-source, basé sur le travail de MrNachoX
+🔧 Open-source and based on the original work by MrNachoX
 
-Développé avec l’aide de Claude, basé sur :
+Built with the help of Claude, based on:
 https://github.com/MrNachoX/tricount-downloader
 
-🐳 Installation rapide (Docker)
+🐳 Quick Install (Docker)
 docker run -d \
   --name tricount_downloader \
   -p 8080:8080 \
   mranachox/tricount-downloader:latest
 
 
-Ouvrez ensuite :
+Open in your browser:
 👉 http://localhost:8080
 
-🧱 Exemple Docker Compose (recommandé)
+🧱 Docker Compose Example
 services:
   tricount_downloader:
     image: mranachox/tricount-downloader:latest
@@ -42,20 +42,20 @@ services:
       - "8080:8080"
     restart: unless-stopped
 
-🧭 Comment ça marche ?
+🧭 How It Works
 
-Ouvrez l’interface.
+Open the web interface
 
-Collez l’URL de votre Tricount.
+Paste your Tricount URL
 
-Cliquez sur Download CSV.
+Click Download CSV
 
-(Optionnel) Utilisez cette URL dans une automatisation N8N.
+(Optional) Use it inside an N8N workflow
 
-🤝 Crédit & Auteurs
+🤝 Credits & Authors
 
-🔧 Basé sur le projet original de MrNachoX
+🔧 Original base project by MrNachoX
 
-🤖 Amélioré/complété avec Claude
+🤖 Extended with the help of Claude
 
-🚀 Packagé et simplifié pour Docker / Dockge
+🚀 Packaged for Docker / Dockge deployment
