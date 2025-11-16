@@ -1,11 +1,15 @@
 # 🧩 Tricount_downloader
 Download your Tricount data as CSV via a minimalist Docker-hosted web interface.
 
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://hub.docker.com/r/mranachox/tricount-downloader)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/MrNachoX/tricount-downloader/blob/main/LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/MrNachoX/tricount-downloader)](https://github.com/MrNachoX/tricount-downloader/releases)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mranachox/tricount-downloader?logo=docker&color=2496ed)](https://hub.docker.com/r/mranachox/tricount-downloader)
+[![Docker Image Version](https://img.shields.io/docker/v/mranachox/tricount-downloader?logo=docker&color=blue)](https://hub.docker.com/r/mranachox/tricount-downloader)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/MrNachoX/tricount-downloader/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/MrNachoX/tricount-downloader?color=orange)](https://github.com/MrNachoX/tricount-downloader/releases)
+[![Open Issues](https://img.shields.io/github/issues/MrNachoX/tricount-downloader?color=red)](https://github.com/MrNachoX/tricount-downloader/issues)
 
-<img width="680" height="457" alt="image" src="https://github.com/user-attachments/assets/36d3b2e4-acc8-46cb-9d55-5df71d2b46ee" />
+
+<img width="743" height="443" alt="image" src="https://github.com/user-attachments/assets/95adf38d-9ce4-42ad-b911-10fbc1067937" />
+
 ---
 
 ## ✨ Overview
