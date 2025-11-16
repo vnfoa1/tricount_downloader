@@ -5,6 +5,7 @@ Download your Tricount data as CSV via a minimalist Docker-hosted web interface.
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/MrNachoX/tricount-downloader/blob/main/LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/MrNachoX/tricount-downloader)](https://github.com/MrNachoX/tricount-downloader/releases)
 
+<img width="680" height="457" alt="image" src="https://github.com/user-attachments/assets/36d3b2e4-acc8-46cb-9d55-5df71d2b46ee" />
 ---
 
 ## ✨ Overview
@@ -30,7 +31,7 @@ Perfect for automation lovers and self-hosters:
 Source project: [GitHub](https://github.com/MrNachoX/tricount-downloader)
 
 
-<img width="680" height="457" alt="image" src="https://github.com/user-attachments/assets/36d3b2e4-acc8-46cb-9d55-5df71d2b46ee" />
+
 
 <img width="651" height="121" alt="image" src="https://github.com/user-attachments/assets/fb5ae72d-10bb-4a7d-92ba-832c77b9666d" />
 
