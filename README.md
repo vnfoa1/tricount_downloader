@@ -27,7 +27,13 @@ Perfect for automation lovers and self-hosters:
 - 🌀 Works seamlessly with N8N  
 - 🧱 Fully compatible with Docker  
 - 🔧 Open-source, based on work by MrNachoX   
-Source project: [GitHub](https://github.com/MrNachoX/tricount-downloader)  
+Source project: [GitHub](https://github.com/MrNachoX/tricount-downloader)
+
+
+<img width="680" height="457" alt="image" src="https://github.com/user-attachments/assets/36d3b2e4-acc8-46cb-9d55-5df71d2b46ee" />
+
+<img width="651" height="121" alt="image" src="https://github.com/user-attachments/assets/fb5ae72d-10bb-4a7d-92ba-832c77b9666d" />
+
 
 
 
