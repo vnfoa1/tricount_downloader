@@ -1,27 +1,33 @@
-🇬🇧 README — English Version
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-Compatible-FE7A16?logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebUI-Minimalist-34A853" />
+  <img src="https://img.shields.io/badge/Open--Source-Yes-8A2BE2" />
+  <img src="https://img.shields.io/badge/Built%20With-Claude-8A2BE2" />
+</p>
+
 🧩 Tricount_downloader
 
-Download your Tricount data as CSV through a clean and simple Docker-hosted web interface.
+Download your Tricount data as CSV via a minimalist Docker-hosted web interface.
 
-<img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker" /> <img src="https://img.shields.io/badge/N8N-Compatible-orange?logo=n8n" /> <img src="https://img.shields.io/badge/WebUI-Minimalist-green" /> <img src="https://img.shields.io/badge/Built%20with-Claude-purple" /> </div>
-✨ About
+<p align="center"> <img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker" /> <img src="https://img.shields.io/badge/N8N-Compatible-orange?logo=n8n" /> <img src="https://img.shields.io/badge/WebUI-Minimalist-green" /> <img src="https://img.shields.io/badge/Built%20with-Claude-purple" /> </p>
+✨ Overview
 
-Tricount_downloader lets you extract all your Tricount data as CSV in a single click from a tiny web interface.
-Designed for automation lovers and self-hosters:
+Tricount_downloader provides a one-click CSV export for all your Tricount data through a tiny, clean web UI.
 
-🐳 Extremely easy Docker setup
+Perfect for automation lovers and self-hosters:
 
-🌐 Minimal web UI
+🐳 Ultra-simple Docker setup
 
-🌀 Works with N8N automations
+🌐 Minimal web interface
+
+🌀 Works seamlessly with N8N
 
 🧱 Fully compatible with Dockge
 
-🔧 Open-source and based on the original work by MrNachoX
+🔧 Open-source, based on work by MrNachoX
 
-Built with the help of Claude, based on:
-https://github.com/MrNachoX/tricount-downloader
+Source project: https://github.com/MrNachoX/tricount-downloader
 
 🐳 Quick Install (Docker)
 docker run -d \
@@ -50,12 +56,12 @@ Paste your Tricount URL
 
 Click Download CSV
 
-(Optional) Use it inside an N8N workflow
+(Optional) Integrate in an N8N workflow
 
-🤝 Credits & Authors
+🤝 Credits
 
-🔧 Original base project by MrNachoX
+🔧 Original project by MrNachoX
 
 🤖 Extended with the help of Claude
 
-🚀 Packaged for Docker / Dockge deployment
+🚀 Packaged for easy Docker / Dockge deployment
