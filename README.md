@@ -7,3 +7,5 @@ Built with Claude thank to https://github.com/MrNachoX/tricount-downloader
 
 
 <img width="991" height="583" alt="image" src="https://github.com/user-attachments/assets/57fb36aa-a024-49b1-8ada-cf088e1208f9" />
+<img width="672" height="137" alt="image" src="https://github.com/user-attachments/assets/8d3d05fa-4b12-4b23-99f6-3e8d05240193" />
+
